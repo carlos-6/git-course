@@ -6,5 +6,6 @@
     </head>
     <body>
         <h1>Just a simple course</h1>
+        <p>Aca agregamos unas lineas nada mas</p>
     </body>
 </html>
