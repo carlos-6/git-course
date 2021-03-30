@@ -8,5 +8,6 @@
     <body>
         <h1>Just a simple course</h1>
         <p>Aca agregamos unas lineas nada mas</p>
+        <p class="palabraExtraña">Este parrafo es extraño</p>
     </body>
 </html>
