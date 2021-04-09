@@ -10,5 +10,7 @@
         <p>Aca agregamos unas lineas nada mas</p>
         <p class="palabraExtraña">Este parrafo es extraño</p>
         <p>Editando desde Github.</p>
+        <button onclick="saludar()">Hola</button>
     </body>
+    <script src="js/js.js"></script>
 </html>
