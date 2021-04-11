@@ -11,6 +11,7 @@
         <p class="palabraExtraña">Este parrafo es extraño</p>
         <p>Editando desde Github.</p>
         <p>Otro parrafo noma</p>
+        <p>otro parrago para test nomas desde VS Code</p>
         <button onclick="saludar()">Hola</button>
     </body>
     <script src="js/js.js"></script>
