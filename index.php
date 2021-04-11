@@ -12,6 +12,10 @@
         <p>Editando desde Github.</p>
         <p>Otro parrafo noma</p>
         <p>otro parrago para test nomas desde VS Code</p>
+        <ul>
+            <li>Lista uno</li>
+            <li>Lista dos</li>
+        </ul>
         <button onclick="saludar()">Hola</button>
     </body>
     <script src="js/js.js"></script>
