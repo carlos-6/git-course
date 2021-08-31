@@ -1,1 +1,2 @@
-# This is just to learn git
+# Note
+This is to learn and practice git noma
